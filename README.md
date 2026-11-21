@@ -6,7 +6,7 @@ No browser extension, no account and no setup: it's a single `.exe`.
 
 ## Features
 
-- **Works with four AI chats:** DeepSeek, Claude, ChatGPT and Gemini, in Chrome, Edge, Brave, Opera, Vivaldi or Firefox.
+- **Works with three AI chats:** DeepSeek, Claude, and Gemini, in Chrome, Edge, Brave, Opera, Vivaldi or Firefox.
 - **Finds the chat for you:** the chat can be in any browser window, in a background tab, in a window snapped to half the screen, or installed as an app. Study Buddy switches to it, pastes the screenshot and types your prompt.
 - **Works with any screenshot tool:** Print Screen, Win + Shift + S, Win + Print Screen or Snipping Tool. Anything that copies an image works.
 - **Your own prompt:** type whatever you want sent with each screenshot. It's remembered between sessions.
@@ -68,7 +68,7 @@ Study Buddy uses the first chat it finds. It checks your browser windows from th
 ## Troubleshooting
 
 **"Screenshot taken, but no ... tab is open"**
-Study Buddy couldn't find a chat. Make sure one of the four chat sites is open in a supported browser.
+Study Buddy couldn't find a chat. Make sure one of the three chat sites is open in a supported browser.
 
 **A ChatGPT chat in a background tab isn't found**
 ChatGPT names its tabs after the conversation (for example "Photosynthesis questions") without "ChatGPT" in the title, so a background ChatGPT tab can't be recognised. Switch to that tab once so it's the one you're viewing in its window, or start a new chat (a new chat tab is titled "ChatGPT"). DeepSeek, Claude and Gemini chats are found in any tab.
