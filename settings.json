@@ -1,0 +1,7 @@
+﻿{
+    "Notifications":  true,
+    "AutoSend":  true,
+    "UploadWaitSec":  0.5,
+    "Theme":  "System",
+    "Prompt":  "explain this like you are a professor"
+}
